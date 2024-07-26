@@ -1,6 +1,6 @@
 # REACT
 
-The project is an overview of Frontend UI/UX of WhatGPT3 website created using HTML, CSS and Javascript using React + Vite.
+The project provides an overview of the frontend UI/UX of the WhatGPT3 website, which was constructed using HTML, CSS, and Javascript with React + Vite.
 
 ## Deployment
 
