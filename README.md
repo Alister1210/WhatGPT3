@@ -22,10 +22,6 @@ You can learn more in the Create React App documentation.
 
 To learn React, check out the React documentation.
 
-## Acknowledgements
-
-- Javascript Mastery
-
 ## Authors
 
 - Alister Fernandes
